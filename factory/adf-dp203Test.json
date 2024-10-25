@@ -1,0 +1,9 @@
+{
+	"name": "adf-dp203Test",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1adf9d14-d7a0-4764-bd50-1b1079fce464",
+		"tenantId": "eadd37ef-3296-4f56-83b8-3ed2b421b4b9"
+	}
+}
